@@ -1,7 +1,7 @@
 # Python-Project_Jarvis_assistant
 Project_Jarvis is virtual assistant at its beginner level and I'm upgrading it time by time and adding new features to it, it is in its early stage where it can perform minor tasks like opening popular websites like Youtube, Google, Github and play some selected music from musicLibrary's dictionary.
-# 🎙️ Virtual Assistant (Beginner Project)
 
+# 🎙️ Virtual Assistant (Beginner Project)
 A simple Python-based virtual assistant that can open popular websites and play music from YouTube.  
 Built as a beginner-friendly project to explore automation and voice commands.
 
@@ -21,7 +21,7 @@ Built as a beginner-friendly project to explore automation and voice commands.
   - `webbrowser`
   - `pyttsx3` (for text-to-speech)
   - `speech_recognition` (for voice commands, optional)
-  - `pywhatkit` (for YouTube music search/play)
+  - `musicLibrary` (for YouTube music play) [it is a library created by author consisting hindi songs of fevicol,azul and munni]
 
 ---
 
